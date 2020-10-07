@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=IndexTester
+comment0.text=\n\ The\ class\ IndexTester\ conducts\ experiments\ on\ the\ 3\ different\ index\ classes\n\n\ @author\ Omar\ Drira\n\ @version\ 05/05/20\n
+comment1.params=
+comment1.target=IndexTester()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ IndexTester,\ creates\ a\ dictionary\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\n\ Main\ method\ of\ the\ IndexTester\ class\ that\ performs\ the\ experiments\n\ gives\ a\ result\ for\ 14\ different\ books\ for\ a\ chosen\ data\ structure\n\ @param\ an\ array\ of\ string\ arguments\n
+comment3.params=w
+comment3.target=boolean\ isWord(java.lang.String)
+comment3.text=\n\ method\ that\ determines\ if\ a\ string\ is\ an\ english\ word\ or\ not\n\ @param\ input\ string\ to\ be\ determined\n\ @return\ boolean\ describing\ if\ the\ string\ is\ an\ english\ word\ or\ not\n
+numComments=4

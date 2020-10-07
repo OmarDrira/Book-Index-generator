@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Index
+comment0.text=\n\ The\ interface\ Index\ is\ an\ interface\ for\ the\ implementations\ of\ a\ book\ index\n\n\ @author\ Omar\ Drira\n\ @version\ 05/05/20\n
+comment1.params=w\ k
+comment1.target=void\ add(java.lang.String,\ java.lang.Integer)
+comment1.text=\n\ method\ that\ adds\ a\ word\ appearance\ in\ a\ certain\ line\ to\ the\ index\n\ @param\ the\ word\ to\ be\ added\ \ \n\ @param\ the\ line\ number\ in\ which\ it\ appears\n
+comment2.params=fileName
+comment2.target=void\ print(java.lang.String)
+comment2.text=\n\ method\ that\ prints\ the\ contents\ of\ the\ index\ \n\ to\ a\ certain\ given\ file\ name\n\ @param\ the\ name\ of\ the\ output\ file\n
+numComments=3
