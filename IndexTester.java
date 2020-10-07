@@ -42,7 +42,7 @@ public class IndexTester
             for (String file:files){
                 long average= 0; long average1= 0; 
                 for(int j=0; j<10;j++){
-                    BufferedReader br = new BufferedReader(new FileReader("input/"+file+".txt"));
+                    BufferedReader br = new BufferedReader(new FileReader(file+".txt"));
                     Index l= new HashIndex(); // data structure can be changed here
                     String line =br.readLine();
 
